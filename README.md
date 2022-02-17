@@ -1,6 +1,6 @@
 # diff-checker-clone
 
-##Agenda
+## Agenda
 Building a simple clone to [Diffchecker](https://www.diffchecker.com/)
 
 ## Planning
